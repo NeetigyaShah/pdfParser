@@ -1,0 +1,28 @@
+# Ignore virtual environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore development files
+.git/
+.gitignore
+*.md
+.vscode/
+.idea/
+
+# Ignore output files and test data (will be mounted as volumes)
+outputs/
+debug_*
+*.png
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore any sample PDFs in the image (will be mounted)
+test_pdfs/
+*.pdf

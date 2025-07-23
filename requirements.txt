@@ -1,0 +1,15 @@
+# Core dependencies
+pytesseract==0.3.10
+Pillow==10.0.0
+opencv-python==4.8.0.74
+PyMuPDF==1.23.0
+numpy==1.24.3
+
+# Optional: Language detection (for enhanced auto-detection)
+# langdetect==1.0.9
+
+# Development dependencies (optional)
+# pytest==7.4.0
+# black==23.7.0
+# flake8==6.0.0
+# End of requirements

@@ -1,0 +1,74 @@
+{
+  "title": "Application form for grant of LTC advance",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Name of the Government Servant",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Designation",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Date of entering the Central Government",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Whether permanent or temporary",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Home Town as recorded in the Service Book",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "so whether entitled to LTC",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Whether the concession is to be availed for",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "visiting home town and if so block for which",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Relationship",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "12. Amount of advance required.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Signature of Government Servant.",
+      "page": 1
+    }
+  ],
+  "metadata": {
+    "source_file": "file01.pdf",
+    "processing_time": 0.057851552963256836,
+    "language": "english",
+    "detected_language": null,
+    "total_lines_processed": 54,
+    "headings_found": 12,
+    "file_size_mb": 0.19
+  }
+}

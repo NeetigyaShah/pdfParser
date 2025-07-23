@@ -1,0 +1,184 @@
+{
+  "title": "Neetigya Shah",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "+91-8968896095 | neetigyashah@gmail.com | linkedin | github",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Education",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Vellore Institute of Technology",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Vellore, Tamil Nadu",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Bachelor of Technology in Computer Science",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Sept. 2022 – Sept. 2026",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Sanawar Public School",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Bathinda, Punjab",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Senior Secondary",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Aug. 2021 – May 2022",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Delhi Public School",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Bathinda, Punjab",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "High School",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Apr. 2019 – Mar. 2020",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Experience",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Software Engineer Intern",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "May 2019 – July 2019",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Implemented SQL database operations using C++, optimizing data handling for the VDU (Visual Display Unit)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Developed C++ programs to interact with SQL databases, ensuring efficient data storage and retrieval",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Assisted in designing database schemas for managing CBTC (Communication-Based Train Control) system data",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Wrote optimized C++ queries for performing CRUD (Create, Read, Update, Delete) operations on structured data",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "• Documented technical processes and database interaction methods for future system integration",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Projects",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Built a natural language to SQL generator using OpenAI GPT-4 and LangChain for query creation and validation",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Developed a React-based UI for query input and result visualization",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Used PostgreSQL with AI-driven indexing to optimize performance",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Created a modern cross-platform GUI file sharing tool using Flask and CustomTkinter",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Implemented secure file upload/download with SQLite database backend",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Enabled local and ngrok-based remote access with seamless switching",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Ensured robust communication with persistent configs, error handling, and multithreading",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "• Experimented with a Peer-to-Peer version (accidently made a torrent engine)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Technical Skills",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Developer Tools : Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Libraries : pandas, NumPy, Matplotlib",
+      "page": 1
+    }
+  ],
+  "metadata": {
+    "source_file": "Neetigya_Shah_resume (3).pdf",
+    "processing_time": 0.02841329574584961,
+    "language": "english",
+    "detected_language": null,
+    "total_lines_processed": 45,
+    "headings_found": 34,
+    "file_size_mb": 0.1
+  }
+}
